@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import PrimaryButton from "../components/primarybutton.jsx";
+import PrimaryButton from "../components/PrimaryButton.jsx";
 import Card from "../components/card.jsx";
 import { useNavigate } from "react-router-dom";
 
